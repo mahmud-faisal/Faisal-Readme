@@ -32,6 +32,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmud-faisal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mahmud-faisal&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-faisal&layout=compact&theme=tokyonight" alt="Top Languages"/>
+
 </p>
 
 ---
